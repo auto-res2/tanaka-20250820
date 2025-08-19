@@ -5,3 +5,449 @@
   publisher = {GitHub},
   url       = {https://github.com/airas-org/airas}
 }
+
+% ===========================================
+% REQUIRED CITATIONS
+% These papers must be cited in the manuscript
+% ===========================================
+
+@article{aladago_2021-01-16T16:56:48Z_slot,
+ abstract = {In contrast to traditional weight optimization in a continuous space, we
+demonstrate the existence of effective random networks whose weights are never
+updated. By selecting a weight among a fixed set of random values for each
+individual connection, our method uncovers combinations of random weights that
+match the performance of traditionally-trained networks of the same capacity.
+We refer to our networks as "slot machines" where each reel (connection)
+contains a fixed set of symbols (random values). Our backpropagation algorithm
+"spins" the reels to seek "winning" combinations, i.e., selections of random
+weight values that minimize the given loss. Quite surprisingly, we find that
+allocating just a few random values to each connection (e.g., 8 values per
+connection) yields highly competitive combinations despite being dramatically
+more constrained compared to traditionally learned weights. Moreover,
+finetuning these combinations often improves performance over the trained
+baselines. A randomly initialized VGG-19 with 8 values per connection contains
+a combination that achieves 91% test accuracy on CIFAR-10. Our method also
+achieves an impressive performance of 98.2% on MNIST for neural networks
+containing only random weights.},
+ arxiv_url = {https://arxiv.org/pdf/2101.06475v3.pdf},
+ author = {Maxwell Mbabilla Aladago and Lorenzo Torresani},
+ title = {Slot Machines: Discovering Winning Combinations of Random Weights in Neural Networks},
+ year = {2021-01-16T16:56:48Z}
+}
+
+@article{author_year_bit,
+ title = {Bit-Pruning: A Sparse Multiplication-Less Dot-Product}
+}
+
+@article{author_year_shapeshifter,
+ title = {Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices}
+}
+
+@article{beck_2024-05-07T17:50:21Z_xlstm,
+ abstract = {In the 1990s, the constant error carousel and gating were introduced as the
+central ideas of the Long Short-Term Memory (LSTM). Since then, LSTMs have
+stood the test of time and contributed to numerous deep learning success
+stories, in particular they constituted the first Large Language Models (LLMs).
+However, the advent of the Transformer technology with parallelizable
+self-attention at its core marked the dawn of a new era, outpacing LSTMs at
+scale. We now raise a simple question: How far do we get in language modeling
+when scaling LSTMs to billions of parameters, leveraging the latest techniques
+from modern LLMs, but mitigating known limitations of LSTMs? Firstly, we
+introduce exponential gating with appropriate normalization and stabilization
+techniques. Secondly, we modify the LSTM memory structure, obtaining: (i) sLSTM
+with a scalar memory, a scalar update, and new memory mixing, (ii) mLSTM that
+is fully parallelizable with a matrix memory and a covariance update rule.
+Integrating these LSTM extensions into residual block backbones yields xLSTM
+blocks that are then residually stacked into xLSTM architectures. Exponential
+gating and modified memory structures boost xLSTM capabilities to perform
+favorably when compared to state-of-the-art Transformers and State Space
+Models, both in performance and scaling.},
+ arxiv_url = {https://arxiv.org/pdf/2405.04517v2.pdf},
+ author = {Maximilian Beck and Korbinian Pöppel and Markus Spanring and Andreas Auer and Oleksandra Prudnikova and Michael Kopp and Günter Klambauer and Johannes Brandstetter and Sepp Hochreiter},
+ github_url = {https://github.com/NX-AI/xlstm},
+ title = {xLSTM: Extended Long Short-Term Memory},
+ year = {2024-05-07T17:50:21Z}
+}
+
+@article{fan_2020-04-15T20:10:53Z_training,
+ abstract = {We tackle the problem of producing compact models, maximizing their accuracy
+for a given model size. A standard solution is to train networks with
+Quantization Aware Training, where the weights are quantized during training
+and the gradients approximated with the Straight-Through Estimator. In this
+paper, we extend this approach to work beyond int8 fixed-point quantization
+with extreme compression methods where the approximations introduced by STE are
+severe, such as Product Quantization. Our proposal is to only quantize a
+different random subset of weights during each forward, allowing for unbiased
+gradients to flow through the other weights. Controlling the amount of noise
+and its form allows for extreme compression rates while maintaining the
+performance of the original model. As a result we establish new
+state-of-the-art compromises between accuracy and model size both in natural
+language processing and image classification. For example, applying our method
+to state-of-the-art Transformer and ConvNet architectures, we can achieve 82.5%
+accuracy on MNLI by compressing RoBERTa to 14MB and 80.0 top-1 accuracy on
+ImageNet by compressing an EfficientNet-B3 to 3.3MB.},
+ arxiv_url = {https://arxiv.org/pdf/2004.07320v3.pdf},
+ author = {Angela Fan and Pierre Stock and Benjamin Graham and Edouard Grave and Remi Gribonval and Herve Jegou and Armand Joulin},
+ github_url = {https://github.com/pytorch/fairseq},
+ title = {Training with Quantization Noise for Extreme Model Compression},
+ year = {2020-04-15T20:10:53Z}
+}
+
+@article{geiping_2022-12-28T18:59:28Z_cramming,
+ abstract = {Recent trends in language modeling have focused on increasing performance
+through scaling, and have resulted in an environment where training language
+models is out of reach for most researchers and practitioners. While most in
+the community are asking how to push the limits of extreme computation, we ask
+the opposite question: How far can we get with a single GPU in just one day?
+  We investigate the downstream performance achievable with a transformer-based
+language model trained completely from scratch with masked language modeling
+for a single day on a single consumer GPU. Aside from re-analyzing nearly all
+components of the pretraining pipeline for this scenario and providing a
+modified pipeline with performance close to BERT, we investigate why scaling
+down is hard, and which modifications actually improve performance in this
+scenario. We provide evidence that even in this constrained setting,
+performance closely follows scaling laws observed in large-compute settings.
+Through the lens of scaling laws, we categorize a range of recent improvements
+to training and architecture and discuss their merit and practical
+applicability (or lack thereof) for the limited compute setting.},
+ arxiv_url = {https://arxiv.org/pdf/2212.14034v1.pdf},
+ author = {Jonas Geiping and Tom Goldstein},
+ title = {Cramming: Training a Language Model on a single GPU in one day.},
+ year = {2022-12-28T18:59:28Z}
+}
+
+@article{lewis_2021-03-30T23:08:32Z_base,
+ abstract = {We introduce a new balanced assignment of experts (BASE) layer for large
+language models that greatly simplifies existing high capacity sparse layers.
+Sparse layers can dramatically improve the efficiency of training and inference
+by routing each token to specialized expert modules that contain only a small
+fraction of the model parameters. However, it can be difficult to learn
+balanced routing functions that make full use of the available experts;
+existing approaches typically use routing heuristics or auxiliary
+expert-balancing loss functions. In contrast, we formulate token-to-expert
+allocation as a linear assignment problem, allowing an optimal assignment in
+which each expert receives an equal number of tokens. This optimal assignment
+scheme improves efficiency by guaranteeing balanced compute loads, and also
+simplifies training by not requiring any new hyperparameters or auxiliary
+losses. Code is publicly released at https://github.com/pytorch/fairseq/},
+ arxiv_url = {https://arxiv.org/pdf/2103.16716v1.pdf},
+ author = {Mike Lewis and Shruti Bhosale and Tim Dettmers and Naman Goyal and Luke Zettlemoyer},
+ github_url = {https://github.com/pytorch/fairseq},
+ title = {BASE Layers: Simplifying Training of Large, Sparse Models},
+ year = {2021-03-30T23:08:32Z}
+}
+
+@article{li_2022-06-02T17:51:03Z_efficientformer,
+ abstract = {Vision Transformers (ViT) have shown rapid progress in computer vision tasks,
+achieving promising results on various benchmarks. However, due to the massive
+number of parameters and model design, \textit{e.g.}, attention mechanism,
+ViT-based models are generally times slower than lightweight convolutional
+networks. Therefore, the deployment of ViT for real-time applications is
+particularly challenging, especially on resource-constrained hardware such as
+mobile devices. Recent efforts try to reduce the computation complexity of ViT
+through network architecture search or hybrid design with MobileNet block, yet
+the inference speed is still unsatisfactory. This leads to an important
+question: can transformers run as fast as MobileNet while obtaining high
+performance? To answer this, we first revisit the network architecture and
+operators used in ViT-based models and identify inefficient designs. Then we
+introduce a dimension-consistent pure transformer (without MobileNet blocks) as
+a design paradigm. Finally, we perform latency-driven slimming to get a series
+of final models dubbed EfficientFormer. Extensive experiments show the
+superiority of EfficientFormer in performance and speed on mobile devices. Our
+fastest model, EfficientFormer-L1, achieves $79.2\%$ top-1 accuracy on
+ImageNet-1K with only $1.6$ ms inference latency on iPhone 12 (compiled with
+CoreML), which runs as fast as MobileNetV2$\times 1.4$ ($1.6$ ms, $74.7\%$
+top-1), and our largest model, EfficientFormer-L7, obtains $83.3\%$ accuracy
+with only $7.0$ ms latency. Our work proves that properly designed transformers
+can reach extremely low latency on mobile devices while maintaining high
+performance.},
+ arxiv_url = {https://arxiv.org/pdf/2206.01191v5.pdf},
+ author = {Yanyu Li and Geng Yuan and Yang Wen and Ju Hu and Georgios Evangelidis and Sergey Tulyakov and Yanzhi Wang and Jian Ren},
+ title = {EfficientFormer: Vision Transformers at MobileNet Speed},
+ year = {2022-06-02T17:51:03Z}
+}
+
+@article{li_2023-06-01T17:59:25Z_snapfusion,
+ abstract = {Text-to-image diffusion models can create stunning images from natural
+language descriptions that rival the work of professional artists and
+photographers. However, these models are large, with complex network
+architectures and tens of denoising iterations, making them computationally
+expensive and slow to run. As a result, high-end GPUs and cloud-based inference
+are required to run diffusion models at scale. This is costly and has privacy
+implications, especially when user data is sent to a third party. To overcome
+these challenges, we present a generic approach that, for the first time,
+unlocks running text-to-image diffusion models on mobile devices in less than
+$2$ seconds. We achieve so by introducing efficient network architecture and
+improving step distillation. Specifically, we propose an efficient UNet by
+identifying the redundancy of the original model and reducing the computation
+of the image decoder via data distillation. Further, we enhance the step
+distillation by exploring training strategies and introducing regularization
+from classifier-free guidance. Our extensive experiments on MS-COCO show that
+our model with $8$ denoising steps achieves better FID and CLIP scores than
+Stable Diffusion v$1.5$ with $50$ steps. Our work democratizes content creation
+by bringing powerful text-to-image diffusion models to the hands of users.},
+ arxiv_url = {https://arxiv.org/pdf/2306.00980v3.pdf},
+ author = {Yanyu Li and Huan Wang and Qing Jin and Ju Hu and Pavlo Chemerys and Yun Fu and Yanzhi Wang and Sergey Tulyakov and Jian Ren},
+ github_url = {https://github.com/huggingface/diffusers},
+ title = {SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds},
+ year = {2023-06-01T17:59:25Z}
+}
+
+@article{mahabadi_2021-06-08T19:17:04Z_compacter,
+ abstract = {Adapting large-scale pretrained language models to downstream tasks via
+fine-tuning is the standard method for achieving state-of-the-art performance
+on NLP benchmarks. However, fine-tuning all weights of models with millions or
+billions of parameters is sample-inefficient, unstable in low-resource
+settings, and wasteful as it requires storing a separate copy of the model for
+each task. Recent work has developed parameter-efficient fine-tuning methods,
+but these approaches either still require a relatively large number of
+parameters or underperform standard fine-tuning. In this work, we propose
+Compacter, a method for fine-tuning large-scale language models with a better
+trade-off between task performance and the number of trainable parameters than
+prior work. Compacter accomplishes this by building on top of ideas from
+adapters, low-rank optimization, and parameterized hypercomplex multiplication
+layers. Specifically, Compacter inserts task-specific weight matrices into a
+pretrained model's weights, which are computed efficiently as a sum of
+Kronecker products between shared "slow" weights and "fast" rank-one matrices
+defined per Compacter layer. By only training 0.047% of a pretrained model's
+parameters, Compacter performs on par with standard fine-tuning on GLUE and
+outperforms standard fine-tuning on SuperGLUE and low-resource settings. Our
+code is publicly available at~\url{https://github.com/rabeehk/compacter}.},
+ arxiv_url = {https://arxiv.org/pdf/2106.04647v2.pdf},
+ author = {Rabeeh Karimi Mahabadi and James Henderson and Sebastian Ruder},
+ github_url = {https://github.com/rabeehk/compacter},
+ title = {Compacter: Efficient Low-Rank Hypercomplex Adapter Layers},
+ year = {2021-06-08T19:17:04Z}
+}
+
+@article{schotthfer_2022-05-26T18:18:12Z_low,
+ abstract = {Neural networks have achieved tremendous success in a large variety of
+applications. However, their memory footprint and computational demand can
+render them impractical in application settings with limited hardware or energy
+resources. In this work, we propose a novel algorithm to find efficient
+low-rank subnetworks. Remarkably, these subnetworks are determined and adapted
+already during the training phase and the overall time and memory resources
+required by both training and evaluating them are significantly reduced. The
+main idea is to restrict the weight matrices to a low-rank manifold and to
+update the low-rank factors rather than the full matrix during training. To
+derive training updates that are restricted to the prescribed manifold, we
+employ techniques from dynamic model order reduction for matrix differential
+equations. This allows us to provide approximation, stability, and descent
+guarantees. Moreover, our method automatically and dynamically adapts the ranks
+during training to achieve the desired approximation accuracy. The efficiency
+of the proposed method is demonstrated through a variety of numerical
+experiments on fully-connected and convolutional networks.},
+ arxiv_url = {https://arxiv.org/pdf/2205.13571v2.pdf},
+ author = {Steffen Schotthöfer and Emanuele Zangrando and Jonas Kusch and Gianluca Ceruti and Francesco Tudisco},
+ github_url = {https://github.com/COMPiLELab/DLRT},
+ journal = {Proceedings NeurIPS 2022},
+ title = {Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations},
+ year = {2022-05-26T18:18:12Z}
+}
+
+@article{sun_2019-09-07T20:17:34Z_lamol,
+ abstract = {Most research on lifelong learning applies to images or games, but not
+language. We present LAMOL, a simple yet effective method for lifelong language
+learning (LLL) based on language modeling. LAMOL replays pseudo-samples of
+previous tasks while requiring no extra memory or model capacity. Specifically,
+LAMOL is a language model that simultaneously learns to solve the tasks and
+generate training samples. When the model is trained for a new task, it
+generates pseudo-samples of previous tasks for training alongside data for the
+new task. The results show that LAMOL prevents catastrophic forgetting without
+any sign of intransigence and can perform five very different language tasks
+sequentially with only one model. Overall, LAMOL outperforms previous methods
+by a considerable margin and is only 2-3% worse than multitasking, which is
+usually considered the LLL upper bound. The source code is available at
+https://github.com/jojotenya/LAMOL.},
+ arxiv_url = {https://arxiv.org/pdf/1909.03329v2.pdf},
+ author = {Fan-Keng Sun and Cheng-Hao Ho and Hung-Yi Lee},
+ github_url = {https://github.com/jojotenya/LAMOL},
+ title = {LAMOL: LAnguage MOdeling for Lifelong Language Learning},
+ year = {2019-09-07T20:17:34Z}
+}
+
+@article{tang_2024-02-05T07:59:38Z_rethinking,
+ abstract = {The power of large language models (LLMs) has been demonstrated through
+numerous data and computing resources. However, the application of language
+models on mobile devices is facing huge challenge on the computation and memory
+costs, that is, tiny language models with high performance are urgently
+required. Limited by the highly complex training process, there are many
+details for optimizing language models that are seldom studied carefully. In
+this study, based on a tiny language model with 1B parameters, we carefully
+design a series of empirical study to analyze the effect of each component.
+Three perspectives are mainly discussed, \ie, neural architecture, parameter
+initialization, and optimization strategy. Several design formulas are
+empirically proved especially effective for tiny language models, including
+tokenizer compression, architecture tweaking, parameter inheritance and
+multiple-round training. Then we train PanGu-$\pi$-1B Pro and PanGu-$\pi$-1.5B
+Pro on 1.6T multilingual corpora, following the established formulas.
+Experimental results demonstrate the improved optimization and architecture
+yield a notable average improvement of 8.87 on benchmark evaluation sets for
+PanGu-$\pi$-1B Pro. Besides, PanGu-$\pi$-1.5B Pro surpasses a range of SOTA
+models with larger model sizes, validating its superior performance. The code
+is available at https://github.com/YuchuanTian/RethinkTinyLM.},
+ arxiv_url = {https://arxiv.org/pdf/2402.02791v4.pdf},
+ author = {Yehui Tang and Kai Han and Fangcheng Liu and Yunsheng Ni and Yuchuan Tian and Zheyuan Bai and Yi-Qi Hu and Sichao Liu and Shangling Jui and Yunhe Wang},
+ title = {Rethinking Optimization and Architecture for Tiny Language Models},
+ year = {2024-02-05T07:59:38Z}
+}
+
+@article{zhang_2022-02-01T16:20:15Z_examining,
+ abstract = {Natural language understanding and generation models follow one of the two
+dominant architectural paradigms: language models (LMs) that process
+concatenated sequences in a single stack of layers, and encoder-decoder models
+(EncDec) that utilize separate layer stacks for input and output processing. In
+machine translation, EncDec has long been the favoured approach, but with few
+studies investigating the performance of LMs. In this work, we thoroughly
+examine the role of several architectural design choices on the performance of
+LMs on bilingual, (massively) multilingual and zero-shot translation tasks,
+under systematic variations of data conditions and model sizes. Our results
+show that: (i) Different LMs have different scaling properties, where
+architectural differences often have a significant impact on model performance
+at small scales, but the performance gap narrows as the number of parameters
+increases, (ii) Several design choices, including causal masking and
+language-modeling objectives for the source sequence, have detrimental effects
+on translation quality, and (iii) When paired with full-visible masking for
+source sequences, LMs could perform on par with EncDec on supervised bilingual
+and multilingual translation tasks, and improve greatly on zero-shot directions
+by facilitating the reduction of off-target translations.},
+ arxiv_url = {https://arxiv.org/pdf/2202.00528v3.pdf},
+ author = {Biao Zhang and Behrooz Ghorbani and Ankur Bapna and Yong Cheng and Xavier Garcia and Jonathan Shen and Orhan Firat},
+ title = {Examining Scaling and Transfer of Language Model Architectures for Machine Translation},
+ year = {2022-02-01T16:20:15Z}
+}
+
+@article{zhang_2022-02-01T16:20:15Z_examining,
+ abstract = {Natural language understanding and generation models follow one of the two
+dominant architectural paradigms: language models (LMs) that process
+concatenated sequences in a single stack of layers, and encoder-decoder models
+(EncDec) that utilize separate layer stacks for input and output processing. In
+machine translation, EncDec has long been the favoured approach, but with few
+studies investigating the performance of LMs. In this work, we thoroughly
+examine the role of several architectural design choices on the performance of
+LMs on bilingual, (massively) multilingual and zero-shot translation tasks,
+under systematic variations of data conditions and model sizes. Our results
+show that: (i) Different LMs have different scaling properties, where
+architectural differences often have a significant impact on model performance
+at small scales, but the performance gap narrows as the number of parameters
+increases, (ii) Several design choices, including causal masking and
+language-modeling objectives for the source sequence, have detrimental effects
+on translation quality, and (iii) When paired with full-visible masking for
+source sequences, LMs could perform on par with EncDec on supervised bilingual
+and multilingual translation tasks, and improve greatly on zero-shot directions
+by facilitating the reduction of off-target translations.},
+ arxiv_url = {https://arxiv.org/pdf/2202.00528v3.pdf},
+ author = {Biao Zhang and Behrooz Ghorbani and Ankur Bapna and Yong Cheng and Xavier Garcia and Jonathan Shen and Orhan Firat},
+ title = {Examining Scaling and Transfer of Language Model Architectures for Machine Translation},
+ year = {2022-02-01T16:20:15Z}
+}
+
+% ===========================================
+% REFERENCE CANDIDATES
+% Additional reference papers for context
+% ===========================================
+
+@article{chaudhry_2018-12-02T16:39:19Z_lifelong,
+ abstract = {In lifelong learning, the learner is presented with a sequence of tasks,
+incrementally building a data-driven prior which may be leveraged to speed up
+learning of a new task. In this work, we investigate the efficiency of current
+lifelong approaches, in terms of sample complexity, computational and memory
+cost. Towards this end, we first introduce a new and a more realistic
+evaluation protocol, whereby learners observe each example only once and
+hyper-parameter selection is done on a small and disjoint set of tasks, which
+is not used for the actual learning experience and evaluation. Second, we
+introduce a new metric measuring how quickly a learner acquires a new skill.
+Third, we propose an improved version of GEM (Lopez-Paz & Ranzato, 2017),
+dubbed Averaged GEM (A-GEM), which enjoys the same or even better performance
+as GEM, while being almost as computationally and memory efficient as EWC
+(Kirkpatrick et al., 2016) and other regularization-based methods. Finally, we
+show that all algorithms including A-GEM can learn even more quickly if they
+are provided with task descriptors specifying the classification tasks under
+consideration. Our experiments on several standard lifelong learning benchmarks
+demonstrate that A-GEM has the best trade-off between accuracy and efficiency.},
+ arxiv_url = {https://arxiv.org/pdf/1812.00420v2.pdf},
+ author = {Arslan Chaudhry and Marc'Aurelio Ranzato and Marcus Rohrbach and Mohamed Elhoseiny},
+ title = {Efﬁcient lifelong learning with a-gem.},
+ year = {2018-12-02T16:39:19Z}
+}
+
+@article{chen_2015-11-18T02:09:20Z_accelerating,
+ abstract = {We introduce techniques for rapidly transferring the information stored in
+one neural net into another neural net. The main purpose is to accelerate the
+training of a significantly larger neural net. During real-world workflows, one
+often trains very many different neural networks during the experimentation and
+design process. This is a wasteful process in which each new model is trained
+from scratch. Our Net2Net technique accelerates the experimentation process by
+instantaneously transferring the knowledge from a previous network to each new
+deeper or wider network. Our techniques are based on the concept of
+function-preserving transformations between neural network specifications. This
+differs from previous approaches to pre-training that altered the function
+represented by a neural net when adding layers to it. Using our knowledge
+transfer mechanism to add depth to Inception modules, we demonstrate a new
+state of the art accuracy rating on the ImageNet dataset.},
+ arxiv_url = {https://arxiv.org/pdf/1511.05641v4.pdf},
+ author = {Tianqi Chen and Ian Goodfellow and Jonathon Shlens},
+ title = {Net2net: Accelerating learning via knowledge transfer.},
+ year = {2015-11-18T02:09:20Z}
+}
+
+@article{chen_2018-01-09T06:11:50Z_lifelong,
+ abstract = {This paper proposes a novel lifelong learning (LL) approach to sentiment
+classification. LL mimics the human continuous learning process, i.e.,
+retaining the knowledge learned from past tasks and use it to help future
+learning. In this paper, we first discuss LL in general and then LL for
+sentiment classification in particular. The proposed LL approach adopts a
+Bayesian optimization framework based on stochastic gradient descent. Our
+experimental results show that the proposed method outperforms baseline methods
+significantly, which demonstrates that lifelong learning is a promising
+research direction.},
+ arxiv_url = {https://arxiv.org/pdf/1801.02808v1.pdf},
+ author = {Zhiyuan Chen and Nianzu Ma and Bing Liu},
+ journal = {ACL 2015},
+ title = {Lifelong learning for sentiment classiﬁcation.},
+ year = {2018-01-09T06:11:50Z}
+}
+
+@article{dautume_2019-06-03T20:50:58Z_episodic,
+ abstract = {We introduce a lifelong language learning setup where a model needs to learn
+from a stream of text examples without any dataset identifier. We propose an
+episodic memory model that performs sparse experience replay and local
+adaptation to mitigate catastrophic forgetting in this setup. Experiments on
+text classification and question answering demonstrate the complementary
+benefits of sparse experience replay and local adaptation to allow the model to
+continuously learn from new datasets. We also show that the space complexity of
+the episodic memory module can be reduced significantly (~50-90%) by randomly
+choosing which examples to store in memory with a minimal decrease in
+performance. We consider an episodic memory component as a crucial building
+block of general linguistic intelligence and see our model as a first step in
+that direction.},
+ arxiv_url = {https://arxiv.org/pdf/1906.01076v3.pdf},
+ author = {Cyprien de Masson d'Autume and Sebastian Ruder and Lingpeng Kong and Dani Yogatama},
+ title = {Episodic memory in lifelong language learning.},
+ year = {2019-06-03T20:50:58Z}
+}
+
+@article{elhoseiny_2018-12-26T20:09:49Z_exploring,
+ abstract = {So far life-long learning (LLL) has been studied in relatively small-scale
+and relatively artificial setups. Here, we introduce a new large-scale
+alternative. What makes the proposed setup more natural and closer to
+human-like visual systems is threefold: First, we focus on concepts (or facts,
+as we call them) of varying complexity, ranging from single objects to more
+complex structures such as objects performing actions, and objects interacting
+with other objects. Second, as in real-world settings, our setup has a
+long-tail distribution, an aspect which has mostly been ignored in the LLL
+context. Third, facts across tasks may share structure (e.g., <person, riding,
+wave> and <dog, riding, wave>). Facts can also be semantically related (e.g.,
+"liger" relates to seen categories like "tiger" and "lion"). Given the large
+number of possible facts, a LLL setup seems a natural choice. To avoid model
+size growing over time and to optimally exploit the semantic relations and
+structure, we combine it with a visual semantic embedding instead of discrete
+class labels. We adapt existing datasets with the properties mentioned above
+into new benchmarks, by dividing them semantically or randomly into disjoint
+tasks. This leads to two large-scale benchmarks with 906,232 images and 165,150
+unique facts, on which we evaluate and analyze state-of-the-art LLL methods.},
+ arxiv_url = {https://arxiv.org/pdf/1812.10524v1.pdf},
+ author = {Mohamed Elhoseiny and Francesca Babiloni and Rahaf Aljundi and Marcus Rohrbach and Manohar Paluri and Tinne Tuytelaars},
+ title = {Exploring the challenges towards lifelong fact learning.},
+ year = {2018-12-26T20:09:49Z}
+}
