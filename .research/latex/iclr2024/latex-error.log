@@ -265,300 +265,129 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 1 undefined on input li
+ne 49.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 1 undefined on 
+input line 49.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                   and parameter\-efficient ...
+Package natbib Warning: Citation `fan2020training' on page 1 undefined on input
+ line 49.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . This work lays the groun...
-
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 1 undefined on
+ input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
 nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
 /base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 63.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 63.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  , and efficient module ada...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 63.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                   and represents an importa...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 63.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . However, such methods ar...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 67.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  , exploit low\-rank factor...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                   and SnapFusion \cite{li\_...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...cite{li\_2023-06-01T17:59:25Z\_snapfusion}
-                                                  , has concentrated on enha...
+Package natbib Warning: Citation `li2023snapfusion' on page 2 undefined on inpu
+t line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-06-01T17:59:25Z\T1\t
-extunderscoresnapfusion' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 67.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `lewis2021base' on page 2 undefined on input l
+ine 67.
 
 
-Package natbib Warning: Citation `lewis\T1\textunderscore2021-03-30T23:08:32Z\T
-1\textunderscorebase' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . Low\-rank adaptation met...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 71.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . Additionally, reinforcem...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...te{zhang\_2022-02-01T16:20:15Z\_examining}
-                                                  . The challenge of continu...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 71.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                  , enables dynamic resource...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 72.
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 75.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.76 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 76.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.78 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  .
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 78.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 77.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 79.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 3 undefined on 
+input line 79.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
+Package natbib Warning: Citation `fan2020training' on page 3 undefined on input
+ line 107.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 3 undefined on input line 108.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
-
-
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 108.
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 107.
 
 [3]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.114 ...cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 4 undefined on input line 114.
+Package natbib Warning: Citation `fan2020training' on page 4 undefined on input
+ line 113.
 
 
-LaTeX Warning: File `images/performance.pdf' not found on input line 122.
+LaTeX Warning: File `images/performance.pdf' not found on input line 121.
 
 
 ! Package pdftex.def Error: File `images/performance.pdf' not found: using draf
@@ -568,13 +397,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 ...th=0.7\linewidth]{images/performance.pdf}
+l.121 ...th=0.7\linewidth]{images/performance.pdf}
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
 
 Package natbib Warning: Citation `airas2025' on page 5 undefined on input line 
-130.
+129.
 
 No file paper.bbl.
 
@@ -594,101 +423,21 @@ Package rerunfilecheck Warning: File `paper.out' has changed.
 ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb>
-Output written on paper.pdf (5 pages, 58879 bytes).
+Output written on paper.pdf (5 pages, 58855 bytes).
 Transcript written on paper.log.
 This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 The top-level auxiliary file: paper.aux
-White space in argument---line 5 of file paper.aux
- : \citation{sun\protect
- :                       \T1\textunderscore 2019\protect \T1\textunderscore lamol,chaudhry\protect \T1\textunderscore 2018-12-02T16:39:19Z\protect \T1\textunderscore lifelong}
-I'm skipping whatever remains of this command
-White space in argument---line 6 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
-White space in argument---line 7 of file paper.aux
- : \citation{mahabadi\protect
- :                            \T1\textunderscore 2021-06-08T19:17:04Z\protect \T1\textunderscore compacter}
-I'm skipping whatever remains of this command
-White space in argument---line 11 of file paper.aux
- : \citation{sun\protect
- :                       \T1\textunderscore 2019\protect \T1\textunderscore lamol,chaudhry\protect \T1\textunderscore 2018-12-02T16:39:19Z\protect \T1\textunderscore lifelong}
-I'm skipping whatever remains of this command
-White space in argument---line 12 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
-White space in argument---line 13 of file paper.aux
- : \citation{mahabadi\protect
- :                            \T1\textunderscore 2021-06-08T19:17:04Z\protect \T1\textunderscore compacter}
-I'm skipping whatever remains of this command
-White space in argument---line 14 of file paper.aux
- : \citation{sun\protect
- :                       \T1\textunderscore 2019\protect \T1\textunderscore lamol,chaudhry\protect \T1\textunderscore 2018-12-02T16:39:19Z\protect \T1\textunderscore lifelong}
-I'm skipping whatever remains of this command
-White space in argument---line 15 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
-White space in argument---line 16 of file paper.aux
- : \citation{mahabadi\protect
- :                            \T1\textunderscore 2021-06-08T19:17:04Z\protect \T1\textunderscore compacter}
-I'm skipping whatever remains of this command
-White space in argument---line 17 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2022-06-02T17:51:03Z\protect \T1\textunderscore efficientformer}
-I'm skipping whatever remains of this command
-White space in argument---line 18 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2023-06-01T17:59:25Z\protect \T1\textunderscore snapfusion}
-I'm skipping whatever remains of this command
-White space in argument---line 19 of file paper.aux
- : \citation{zhang\protect
- :                         \T1\textunderscore 2022-02-01T16:20:15Z\protect \T1\textunderscore examining,lewis\protect \T1\textunderscore 2021-03-30T23:08:32Z\protect \T1\textunderscore base}
-I'm skipping whatever remains of this command
-White space in argument---line 20 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
-White space in argument---line 21 of file paper.aux
- : \citation{mahabadi\protect
- :                            \T1\textunderscore 2021-06-08T19:17:04Z\protect \T1\textunderscore compacter}
-I'm skipping whatever remains of this command
-White space in argument---line 22 of file paper.aux
- : \citation{zhang\protect
- :                         \T1\textunderscore 2022-02-01T16:20:15Z\protect \T1\textunderscore examining}
-I'm skipping whatever remains of this command
-White space in argument---line 23 of file paper.aux
- : \citation{sun\protect
- :                       \T1\textunderscore 2019\protect \T1\textunderscore lamol,chaudhry\protect \T1\textunderscore 2018-12-02T16:39:19Z\protect \T1\textunderscore lifelong}
-I'm skipping whatever remains of this command
-White space in argument---line 24 of file paper.aux
- : \citation{li\protect
- :                      \T1\textunderscore 2022-06-02T17:51:03Z\protect \T1\textunderscore efficientformer}
-I'm skipping whatever remains of this command
-White space in argument---line 25 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
-White space in argument---line 26 of file paper.aux
- : \citation{mahabadi\protect
- :                            \T1\textunderscore 2021-06-08T19:17:04Z\protect \T1\textunderscore compacter}
-I'm skipping whatever remains of this command
-White space in argument---line 36 of file paper.aux
- : \citation{sun\protect
- :                       \T1\textunderscore 2019\protect \T1\textunderscore lamol,chaudhry\protect \T1\textunderscore 2018-12-02T16:39:19Z\protect \T1\textunderscore lifelong}
-I'm skipping whatever remains of this command
-White space in argument---line 37 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training,sun\protect \T1\textunderscore 2019\protect \T1\textunderscore lamol}
-I'm skipping whatever remains of this command
-White space in argument---line 41 of file paper.aux
- : \citation{fan\protect
- :                       \T1\textunderscore 2020-04-15T20:10:53Z\protect \T1\textunderscore training}
-I'm skipping whatever remains of this command
 The style file: iclr2024_conference.bst
 Database file #1: references.bib
-(There were 22 error messages)
+Warning--I didn't find a database entry for "sun2019lamol"
+Warning--I didn't find a database entry for "chaudhry2018lifelong"
+Warning--I didn't find a database entry for "fan2020training"
+Warning--I didn't find a database entry for "mahabadi2021compacter"
+Warning--I didn't find a database entry for "li2022efficientformer"
+Warning--I didn't find a database entry for "li2023snapfusion"
+Warning--I didn't find a database entry for "zhang2022examining"
+Warning--I didn't find a database entry for "lewis2021base"
+(There were 8 warnings)
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
@@ -957,300 +706,129 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 1 undefined on input li
+ne 49.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 1 undefined on 
+input line 49.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                   and parameter\-efficient ...
+Package natbib Warning: Citation `fan2020training' on page 1 undefined on input
+ line 49.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . This work lays the groun...
-
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 1 undefined on
+ input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
 nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
 /base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 63.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 63.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  , and efficient module ada...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 63.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                   and represents an importa...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 63.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . However, such methods ar...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 67.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  , exploit low\-rank factor...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                   and SnapFusion \cite{li\_...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...cite{li\_2023-06-01T17:59:25Z\_snapfusion}
-                                                  , has concentrated on enha...
+Package natbib Warning: Citation `li2023snapfusion' on page 2 undefined on inpu
+t line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-06-01T17:59:25Z\T1\t
-extunderscoresnapfusion' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 67.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `lewis2021base' on page 2 undefined on input l
+ine 67.
 
 
-Package natbib Warning: Citation `lewis\T1\textunderscore2021-03-30T23:08:32Z\T
-1\textunderscorebase' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . Low\-rank adaptation met...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 71.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . Additionally, reinforcem...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...te{zhang\_2022-02-01T16:20:15Z\_examining}
-                                                  . The challenge of continu...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 71.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                  , enables dynamic resource...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 72.
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 75.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.76 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 76.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.78 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  .
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 78.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 77.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 79.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 3 undefined on 
+input line 79.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
+Package natbib Warning: Citation `fan2020training' on page 3 undefined on input
+ line 107.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 3 undefined on input line 108.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
-
-
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 108.
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 107.
 
 [3]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.114 ...cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 4 undefined on input line 114.
+Package natbib Warning: Citation `fan2020training' on page 4 undefined on input
+ line 113.
 
 
-LaTeX Warning: File `images/performance.pdf' not found on input line 122.
+LaTeX Warning: File `images/performance.pdf' not found on input line 121.
 
 
 ! Package pdftex.def Error: File `images/performance.pdf' not found: using draf
@@ -1260,13 +838,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 ...th=0.7\linewidth]{images/performance.pdf}
+l.121 ...th=0.7\linewidth]{images/performance.pdf}
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
 
 Package natbib Warning: Citation `airas2025' on page 5 undefined on input line 
-130.
+129.
 
 (./paper.bbl)
 
@@ -1282,7 +860,7 @@ Package natbib Warning: Citation(s) may have changed.
 ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb>
-Output written on paper.pdf (5 pages, 60624 bytes).
+Output written on paper.pdf (5 pages, 60598 bytes).
 Transcript written on paper.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -1552,300 +1130,129 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 1 undefined on input li
+ne 49.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 1 undefined on 
+input line 49.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                   and parameter\-efficient ...
+Package natbib Warning: Citation `fan2020training' on page 1 undefined on input
+ line 49.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . This work lays the groun...
-
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 1 undefined on input line 50.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 1 undefined on
+ input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
 nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
 /base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 63.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  , quantization robust trai...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 63.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  , and efficient module ada...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 63.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.64 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                   and represents an importa...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 63.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 64.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 67.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Although these approache...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 67.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . However, such methods ar...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 67.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  , exploit low\-rank factor...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                   and SnapFusion \cite{li\_...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...cite{li\_2023-06-01T17:59:25Z\_snapfusion}
-                                                  , has concentrated on enha...
+Package natbib Warning: Citation `li2023snapfusion' on page 2 undefined on inpu
+t line 67.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2023-06-01T17:59:25Z\T1\t
-extunderscoresnapfusion' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 67.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.68 ...mining, lewis\_2021-03-30T23:08:32Z\_base}
-                                                   have provided insights in...
+Package natbib Warning: Citation `lewis2021base' on page 2 undefined on input l
+ine 67.
 
 
-Package natbib Warning: Citation `lewis\T1\textunderscore2021-03-30T23:08:32Z\T
-1\textunderscorebase' on page 2 undefined on input line 68.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  . Low\-rank adaptation met...
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 71.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  . Additionally, reinforcem...
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...te{zhang\_2022-02-01T16:20:15Z\_examining}
-                                                  . The challenge of continu...
+Package natbib Warning: Citation `zhang2022examining' on page 2 undefined on in
+put line 71.
 
 
-Package natbib Warning: Citation `zhang\T1\textunderscore2022-02-01T16:20:15Z\T
-1\textunderscoreexamining' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `sun2019lamol' on page 2 undefined on input li
+ne 71.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                  . Our methodology views th...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 2 undefined on 
+input line 71.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 2 undefined on input line 72.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.72 ...li\_2022-06-02T17:51:03Z\_efficientformer}
-                                                  , enables dynamic resource...
+Package natbib Warning: Citation `li2022efficientformer' on page 2 undefined on
+ input line 71.
 
 
-Package natbib Warning: Citation `li\T1\textunderscore2022-06-02T17:51:03Z\T1\t
-extunderscoreefficientformer' on page 2 undefined on input line 72.
+Package natbib Warning: Citation `fan2020training' on page 2 undefined on input
+ line 75.
 
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.76 ...\cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 2 undefined on input line 76.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.78 ...mahabadi\_2021-06-08T19:17:04Z\_compacter}
-                                                  .
-
-Package natbib Warning: Citation `mahabadi\T1\textunderscore2021-06-08T19:17:04
-Z\T1\textunderscorecompacter' on page 2 undefined on input line 78.
+Package natbib Warning: Citation `mahabadi2021compacter' on page 2 undefined on
+ input line 77.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 79.
 
 
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.80 ... chaudhry\_2018-12-02T16:39:19Z\_lifelong}
-                                                   while extending them with...
+Package natbib Warning: Citation `chaudhry2018lifelong' on page 3 undefined on 
+input line 79.
 
 
-Package natbib Warning: Citation `chaudhry\T1\textunderscore2018-12-02T16:39:19
-Z\T1\textunderscorelifelong' on page 3 undefined on input line 80.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
+Package natbib Warning: Citation `fan2020training' on page 3 undefined on input
+ line 107.
 
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 3 undefined on input line 108.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.108 ...15T20:10:53Z\_training, sun\_2019\_lamol}
-                                                   and preliminary experimen...
-
-
-Package natbib Warning: Citation `sun\T1\textunderscore2019\T1\textunderscorela
-mol' on page 3 undefined on input line 108.
+Package natbib Warning: Citation `sun2019lamol' on page 3 undefined on input li
+ne 107.
 
 [3]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.114 ...cite{fan\_2020-04-15T20:10:53Z\_training}
-                                                  .
 
-Package natbib Warning: Citation `fan\T1\textunderscore2020-04-15T20:10:53Z\T1\
-textunderscoretraining' on page 4 undefined on input line 114.
+Package natbib Warning: Citation `fan2020training' on page 4 undefined on input
+ line 113.
 
 
-LaTeX Warning: File `images/performance.pdf' not found on input line 122.
+LaTeX Warning: File `images/performance.pdf' not found on input line 121.
 
 
 ! Package pdftex.def Error: File `images/performance.pdf' not found: using draf
@@ -1855,7 +1262,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 ...th=0.7\linewidth]{images/performance.pdf}
+l.121 ...th=0.7\linewidth]{images/performance.pdf}
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
@@ -1868,5 +1275,5 @@ Package natbib Warning: There were undefined citations.
 ist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb>
-Output written on paper.pdf (5 pages, 60689 bytes).
+Output written on paper.pdf (5 pages, 60669 bytes).
 Transcript written on paper.log.
